@@ -2,30 +2,70 @@
 title: "Publications"
 ---
 
-::: {.callout-note}
-## Links
-
-- **Google Scholar**: add your profile link
-- **ORCID**: add your ORCID link
-- **GitHub**: <https://github.com/ZhouYuFZU>
-:::
-
 ## Journal Articles
 
-- **Zhou, Y.** Add your paper title. *Journal Name*, Year. [DOI](#) [PDF](#)
+### 2026
 
-## Conference Papers
+- Jie Huang, Yi Yu, Heng Li, Liqun Chen, Peng Wei, **Yu Zhou**. One-shot prediction of cross-chemistry Li-ion battery aging trajectories via computational data augmentation and knowledge transfer. *Journal of Energy Storage*, 2026. [DOI](https://doi.org/10.1016/j.est.2026.120342)
 
-- **Zhou, Y.** Add your conference paper title. *Conference Name*, Year. [Link](#)
+- Wenjing Shen, Junye Zhong, Yuntian Pei, Chunbo Li, Jie Wang, **Yu Zhou**, Linfeng Zheng, Liqun Chen, Manlin Tan. Cascaded Modeling of Battery SOH and Dynamic Degradation Trajectory Using Segmented High-SOC Charging Data. *IEEE Transactions on Consumer Electronics*, 2026. [DOI](https://doi.org/10.1109/TCE.2026.3669740)
 
-## Working Papers
+- Kui Wang, Yun Feng, Bing-Chuan Wang, **Yu Zhou**, Peng Wei, Liqun Chen, Han-Xiong Li. Collaborative Diagnosis of Spatiotemporal Faults and Sensor Anomalies in Parabolic Distributed Parameter Systems. *IEEE Transactions on Cybernetics*, 2026. [DOI](https://doi.org/10.1109/TCYB.2026.3670956)
 
-- **Zhou, Y.** Add your working paper title. Manuscript in preparation.
+- Jie Huang, Yi Yu, Shangkun Liu, Kuijie Li, **Yu Zhou**, Liqun Chen. Full-period one-shot prediction of Li-ion battery aging trajectories via multi-view encoding. *IEEE Transactions on Transportation Electrification*, 2026. [DOI](https://doi.org/10.1109/TTE.2026.3696677)
 
-## How to Update
+### 2025
 
-Keep the newest work at the top. A useful format is:
+- **Yu Zhou**, Yi Yu, Li-Qun Chen, Wen-Jing Shen, Jie Huang. Online Prediction of Temperature Distribution in Power Batteries Under Sparse Sensing: An Eigenmode Approximation Perspective. *IEEE Transactions on Transportation Electrification*, 2025. [DOI](https://doi.org/10.1109/TTE.2025.3583281)
 
-```markdown
-- **Author**, Coauthor. Paper title. *Journal or Conference*, Year. [DOI](link) [PDF](link) [Code](link)
-```
+- Lei Lei, **Yu Zhou**, Jianxing Zhang. From Extended Environment Perception Toward Real-Time Dynamic Modeling for Long-Range Underwater Robot. *IEEE Transactions on Robotics*, 2025. [DOI](https://doi.org/10.1109/TRO.2025.3567531)
+
+- Lei Lei, **Yu Zhou**. Incremental Stable/Dynamic Disentanglement Learning for Ocean Subsurface Temperature Prediction. *IEEE Transactions on Geoscience and Remote Sensing*, 2025. [DOI](https://doi.org/10.1109/TGRS.2024.3522998)
+
+- Kui Wang, Jinhui Zhou, Wenjing Shen, **Yu Zhou**, Peng Wei, Xiaolin Mou, Liqun Chen. Robust Sensor Fault Detection and Estimation for Parabolic Distributed Parameter Systems. *IEEE Transactions on Instrumentation and Measurement*, 2025. [DOI](https://doi.org/10.1109/TIM.2025.3548791)
+
+- Liqun Chen, Kui Wang, Jinhui Zhou, **Yu Zhou**, Peng Wei, Xiaolin Mou, Zhengwei Ma. Model-based thermal fault detection and localization for large-format Li-ion battery. *Journal of Energy Storage*, 2026, 147: 120209. [DOI](https://doi.org/10.1016/j.est.2025.120209)
+
+- Liqun Chen, Kui Wang, Jinhui Zhou, Wenjing Shen, **Yu Zhou**, Penghao Duan, Peng Wei. Sensor fault diagnosis for distributed thermal process of large-format lithium-ion battery. *Journal of Power Sources*, 2025, 654: 237795. [DOI](https://doi.org/10.1016/j.jpowsour.2025.237795)
+
+- Tingting Zhao, **Yu Zhou**, Yiwen Qi, Jie Huang. Complete synchronization in predetermined/fixed-time for multilayered networks under edge-based discontinuous control. *Chaos, Solitons & Fractals*, 2025, 195: 116270. [DOI](https://doi.org/10.1016/j.chaos.2025.116270)
+
+- Guiliang Chen, Jie Huang, Jiazhou Zeng, **Yu Zhou**. SAKA: Scalable authentication and key agreement scheme with configurable key evolution in edge-fog-multicloud computing environments. *Journal of Network and Computer Applications*, 2025, 242: 104220. [DOI](https://doi.org/10.1016/j.jnca.2025.104220)
+
+### 2024
+
+- Lei Lei, Jie Huang, **Yu Zhou**. Multimodal fusion-based spatiotemporal incremental learning for ocean environment perception under sparse observation. *Information Fusion*, 2024, 108: 102360. [DOI](https://doi.org/10.1016/j.inffus.2024.102360)
+
+- Jinhui Zhou, Wenjing Shen, Zhengwei Ma, Xiaolin Mou, **Yu Zhou**, Han-Xiong Li, Liqun Chen. Chebyshev-Galerkin-Based Thermal Fault Detection and Localization for Pouch-Type Li-Ion Battery. *IEEE Transactions on Industrial Informatics*, 2024. [DOI](https://doi.org/10.1109/TII.2023.3308336)
+
+- Jinhui Zhou, Liqun Chen, Shupeng Zhang, **Yu Zhou**, Shuqiang Wang, Wenjing Shen. Distributed Thermal Monitoring for Large-Format Li-Ion Battery Under Limited Sensing. *IEEE Transactions on Transportation Electrification*, 2024. [DOI](https://doi.org/10.1109/TTE.2023.3302153)
+
+- **Yu Zhou**, Liqun Chen, Lei Lei. Modeling spatiotemporal temperature dynamics of large-format power batteries: A multi-source information fusion approach. *Advanced Engineering Informatics*, 2024. [DOI](https://doi.org/10.1016/j.aei.2024.102639)
+
+### 2023
+
+- Liqun Chen, Wenjing Shen, **Yu Zhou**, Xiaolin Mou, Lei Lei. Learning-based sparse spatiotemporal modeling for distributed thermal processes of Lithium-ion batteries. *Journal of Energy Storage*, 2023. [DOI](https://doi.org/10.1016/j.est.2023.107834)
+
+- Lei Lei, **Yu Zhou**, Gang Yang. Multisource information fusion-based environment perception and dynamic model of underwater vehicle in irregular ocean environment. *Information Fusion*, 2023. [DOI](https://doi.org/10.1016/j.inffus.2023.02.008)
+
+- Zhang Chen, Liqun Chen, Zhengwei Ma, Kangkang Xu, **Yu Zhou**, Wenjing Shen. Joint modeling for early predictions of Li-ion battery cycle life and degradation trajectory. *Energy*, 2023. [DOI](https://doi.org/10.1016/j.energy.2023.127633)
+
+- **Yu Zhou**, Hua Deng, Han-Xiong Li. Control-Oriented Galerkin-Spectral Model for 3-D Thermal Diffusion of Pouch-Type Batteries. *IEEE Transactions on Industrial Informatics*, 2023. [DOI](https://doi.org/10.1109/TII.2022.3212279)
+
+- **Yu Zhou**, Hua Deng, Han-Xiong Li. Optimal-Sensing-Based Recursive Estimation for Temperature Distribution of Pouch-Type Batteries. *IEEE Transactions on Transportation Electrification*, 2023, 9(1): 912-919. [DOI](https://doi.org/10.1109/TTE.2022.3171857)
+
+- **Yu Zhou**, Hua Deng, Han-Xiong Li, Sheng-Li Xie. Data-Driven Real-Time Prediction of Pouch Cell Temperature Field Under Minimal Sensing. *IEEE Transactions on Transportation Electrification*, 2023, 9(1): 1034-1041. [DOI](https://doi.org/10.1109/TTE.2022.3200729)
+
+### 2022
+
+- **Yu Zhou**, Han-Xiong Li, Sheng-Li Xie. Space-Decomposition-Based Spectral Modeling for Distributed Battery Thermal Dynamics. *IEEE Transactions on Transportation Electrification*, 2022. [DOI](https://doi.org/10.1109/TTE.2021.3124894)
+
+- **Yu Zhou**, Han-Xiong Li, Sheng-Li Xie. Fast Modeling of Battery Thermal Dynamics Based on Spatio-Temporal Adaptation. *IEEE Transactions on Industrial Informatics*, 2022. [DOI](https://doi.org/10.1109/TII.2021.3071775)
+
+### 2021
+
+- **Yu Zhou**, Hua Deng, Han-Xiong Li, Shengli Xie. Dual Separation-Based Spatiotemporal Modeling Methodology for Battery Thermal Process Under Nonhomogeneous Boundary Conditions. *IEEE Transactions on Transportation Electrification*, 2021. [DOI](https://doi.org/10.1109/TTE.2021.3061426)
+
+- **Yu Zhou**, Bing-Chuan Wang, Han-Xiong Li, Hai-Dong Yang, Zhi Liu. A Surrogate-Assisted Teaching-Learning-Based Optimization for Parameter Identification of the Battery Model. *IEEE Transactions on Industrial Informatics*, 2021. [DOI](https://doi.org/10.1109/TII.2020.3038949)
+
+
