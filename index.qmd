@@ -1,0 +1,56 @@
+---
+title: "Yu Zhou"
+image: images/profile.jpg
+about:
+  id: hero-heading
+  template: trestles
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: github
+      text: ZhouYuFZU
+      href: https://github.com/ZhouYuFZU
+    - icon: geo-alt
+      text: Fuzhou, China
+      href: https://www.fzu.edu.cn/
+    - icon: building
+      text: Fuzhou University
+      href: https://www.fzu.edu.cn/
+    - icon: book
+      text: Google Scholar
+      href: "#"
+    - icon: fingerprint
+      text: ORCID
+      href: "#"
+    - icon: mailbox
+      text: Email
+      href: "mailto:your.email@example.com"
+---
+
+::: {#hero-heading}
+
+I am Yu Zhou, based at Fuzhou University. This homepage collects my academic profile, research interests, publications, projects, and contact information.
+
+My current work is connected to precision measurement, experimental data analysis, and engineering research. I am especially interested in reproducible workflows that connect experimental systems, data processing, and clear academic communication.
+
+This page is built with [Quarto](https://quarto.org/) and hosted on [GitHub Pages](https://pages.github.com/). Please replace the placeholder links and text with your latest CV, publications, and research information.
+
+## Research Interests
+
+- Precision measurement and experimental data processing
+- Engineering data analysis and visualization
+- Reproducible research workflows
+- Intelligent manufacturing and instrument-related applications
+
+## Education and Experience
+
+- Fuzhou University, Fuzhou, China
+- Add your degree, school, department, advisor, and time period here
+- Add visiting, internship, or research experience here
+
+## News
+
+- 2026-06: Personal academic homepage launched on GitHub Pages.
+- Add recent publications, awards, presentations, or project updates here.
+
+:::

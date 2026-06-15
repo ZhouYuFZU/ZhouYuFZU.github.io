@@ -1,0 +1,41 @@
+/*-- scss:defaults --*/
+
+$theme: "cosmo" !default;
+$primary: #2c6e91 !default;
+$link-color: #1f6f9f !default;
+$navbar-bg: #a9cce3 !default;
+$body-color: #222 !default;
+$font-family-sans-serif: "Segoe UI", "Helvetica Neue", Arial, sans-serif !default;
+
+/*-- scss:rules --*/
+
+.navbar {
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.08);
+}
+
+#hero-heading {
+  max-width: 980px;
+}
+
+.quarto-about-trestles {
+  padding-top: 1.5rem;
+}
+
+h1, h2, h3 {
+  letter-spacing: 0;
+}
+
+h2 {
+  border-bottom: 1px solid #e8eef2;
+  padding-bottom: 0.25rem;
+  margin-top: 2rem;
+}
+
+.callout-note {
+  border-left-color: #2c6e91;
+}
+
+a {
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.18em;
+}

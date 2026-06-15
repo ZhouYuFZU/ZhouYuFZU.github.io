@@ -1,0 +1,31 @@
+---
+title: "Publications"
+---
+
+::: {.callout-note}
+## Links
+
+- **Google Scholar**: add your profile link
+- **ORCID**: add your ORCID link
+- **GitHub**: <https://github.com/ZhouYuFZU>
+:::
+
+## Journal Articles
+
+- **Zhou, Y.** Add your paper title. *Journal Name*, Year. [DOI](#) [PDF](#)
+
+## Conference Papers
+
+- **Zhou, Y.** Add your conference paper title. *Conference Name*, Year. [Link](#)
+
+## Working Papers
+
+- **Zhou, Y.** Add your working paper title. Manuscript in preparation.
+
+## How to Update
+
+Keep the newest work at the top. A useful format is:
+
+```markdown
+- **Author**, Coauthor. Paper title. *Journal or Conference*, Year. [DOI](link) [PDF](link) [Code](link)
+```

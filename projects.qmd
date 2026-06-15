@@ -1,0 +1,20 @@
+---
+title: "Projects"
+---
+
+## Displacement Measurements of Dispensing Needle
+
+This public repository contains raw displacement measurements during a dispensing needle drop.
+
+- Repository: <https://github.com/ZhouYuFZU/Displacement-measurements-of-dispensing-needle>
+- Status: public dataset / research material
+- Keywords: displacement measurement, dispensing needle, experimental data
+
+## Additional Research Projects
+
+Add your ongoing or completed research projects here. For each project, consider including:
+
+- Research question
+- Method or experimental setup
+- Data or code link
+- Main result or expected contribution

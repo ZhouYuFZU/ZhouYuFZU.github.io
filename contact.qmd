@@ -1,0 +1,18 @@
+---
+title: "Contact"
+---
+
+## Contact
+
+**Yu Zhou**  
+Fuzhou University  
+Fuzhou, China
+
+- GitHub: <https://github.com/ZhouYuFZU>
+- Email: `your.email@example.com`
+- Google Scholar: add your profile link
+- ORCID: add your ORCID link
+
+## Collaboration
+
+I welcome academic communication and collaboration related to precision measurement, experimental data analysis, and reproducible research workflows.
