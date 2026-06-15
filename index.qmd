@@ -63,16 +63,6 @@ about:
 - Zhou, Y., Deng, H., and Li, H. X. Optimal-Sensing-Based Recursive Estimation for Temperature Distribution of Pouch-Type Batteries. *IEEE Transactions on Transportation Electrification*, 2023, 9(1): 912-919.
 - Zhou, Y., Deng, H., Li, H. X., and Xie, S. L. Data-driven Real-time Prediction of Pouch Cell Temperature Field Under Minimal Sensing. *IEEE Transactions on Transportation Electrification*, 2023, 9(1): 1034-1041.
 
-## Research Projects
-
-- 福建省自然科学基金项目：稀疏传感约束下动力电池组复杂温度场异常检测定位方法，2025-2028，主持
-- 国网科技项目：智能电能表耦合失效机理分析与质量风险预警关键技术研究，2026至今，参与（主研）
-- 国网科技项目：开关柜智能环境监测及智能分析处理关键技术研究，2026至今，参与（主研）
-- 香港研究资助局GRF项目：边缘传感器网络下基于双尺度时空学习的电池管理系统多尺度检测，2023至今，参与（主研）
-- 香港研究资助局GRF项目：基于并行模型的分布参数过程空间异常检测，2020-2023，参与（主研）
-- 国家重点研发计划课题：铸造过程状态感知与机器人智能控制，2019-2022，参与
-- 国家重点研发计划课题：科技创新2030新一代人工智能项目-复杂制造人机物三元协同决策与优化理论，2019-2022，参与
-
 ## Student Supervision
 
 欢迎对“电池储能系统管理技术”以及“新能源储能场景中分布参数系统建模与故障诊断”感兴趣的同学加入课题组。
