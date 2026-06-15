@@ -1,36 +1,7 @@
 ---
-title: "CV"
+title: "Products"
 ---
 
-## Yu Zhou
+## Stay tuned for updates.
 
-**Affiliation:** Fuzhou University  
-**Location:** Fuzhou, China  
-**GitHub:** <https://github.com/ZhouYuFZU>
 
-## Education
-
-- Add degree, department, university, years
-
-## Research Experience
-
-- Add research group, role, project, years
-
-## Publications
-
-See [Publications](publications.qmd).
-
-## Skills
-
-- Experimental data analysis
-- Scientific programming
-- Data visualization
-- Academic writing
-
-## Download
-
-If you have a PDF version of your CV, place it in this repository as `CV.pdf`, then change this line to:
-
-```markdown
-[Download CV](CV.pdf)
-```
