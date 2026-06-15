@@ -8,7 +8,7 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: zhouyu@fzu.edu.cn
+      text: Email
       href: mailto:zhouyu@fzu.edu.cn
     - icon: github
       text: ZhouYuFZU
