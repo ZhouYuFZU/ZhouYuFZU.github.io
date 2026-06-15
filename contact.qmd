@@ -2,8 +2,6 @@
 title: "Contact"
 ---
 
-## Contact
-
 **Zhou Yu**  
 School of Electrical Engineering and Automation
 Fuzhou University  
