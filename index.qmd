@@ -14,7 +14,7 @@ about:
       text: ZhouYuFZU
       href: https://github.com/ZhouYuFZU
     - icon: building
-      text: 福州大学
+      text: School of Electrical Engineering and Automation, Fuzhou University
       href: https://www.fzu.edu.cn/
     - icon: book
       text: Google Scholar
