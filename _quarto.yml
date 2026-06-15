@@ -26,8 +26,8 @@ website:
         href: publications.qmd
       - text: "Projects"
         href: projects.qmd
-      - text: "CV"
-        href: cv.qmd
+      - text: "Showcase"
+        href: showcase.qmd
       - text: "Contact"
         href: contact.qmd
 
