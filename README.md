@@ -19,7 +19,6 @@ The final site will be available at:
 - `index.qmd`: homepage introduction, research interests, education, news
 - `publications.qmd`: papers and working papers
 - `projects.qmd`: research projects and public datasets
-- `cv.qmd`: CV-style information
 - `contact.qmd`: contact links
 - `images/profile.jpg`: profile photo
 
