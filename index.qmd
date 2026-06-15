@@ -1,6 +1,6 @@
 ---
 title: "周宇 | Yu Zhou"
-image: images/profile.jpg
+image: profile.jpg
 about:
   id: hero-heading
   template: trestles
