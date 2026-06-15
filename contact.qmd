@@ -9,10 +9,10 @@ Fuzhou University
 Fuzhou, China
 
 - GitHub: <https://github.com/ZhouYuFZU>
-- Email: `your.email@example.com`
-- Google Scholar: add your profile link
-- ORCID: add your ORCID link
+- Email: zhouyu@fzu.edu.cn
+- Google Scholar: https://scholar.google.com/citations?user=pa4VEZgAAAAJ&hl=zh-CN
+- ORCID: https://orcid.org/my-orcid?orcid=0000-0003-4394-1903
 
 ## Collaboration
 
-I welcome academic communication and collaboration related to precision measurement, experimental data analysis, and reproducible research workflows.
+Open to collaborations with researchers interested in battery energy storage management and distributed parameter system (DPS) modeling and control. Prospective Master's students are welcome to email me with inquiries.
