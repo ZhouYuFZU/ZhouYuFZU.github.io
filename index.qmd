@@ -28,7 +28,7 @@ about:
 
 周宇，工学博士，福州大学电气工程与自动化学院校聘副研究员、硕士生导师，现任电工电子学科部教师。主要研究方向为电池储能系统建模与控制，以及分布参数系统建模与仿真。入选福建省高层次人才（C类）和福州大学旗山学者（海外项目）。
 
-研究面向新能源汽车、飞行器、机器人、电网终端设备和大型储能系统等应用场景，关注电池系统多物理场耦合建模、高维参数优化、运行仿真分析、故障预警诊断、温度场降阶建模、温度分布估计、热故障检测定位、联合状态估计与能量管理等问题。同时，也从工程应用中提炼共性理论问题，研究复杂时空动态系统的动力学建模、故障诊断、多物理场耦合建模与数值仿真分析。
+研究面向新能源汽车、飞行器、机器人、电网终端设备和电气储能系统等应用场景，关注电池系统多物理场耦合建模、高维参数优化、运行仿真分析、故障预警诊断、温度场降阶建模、温度分布估计、热故障检测定位、联合状态估计与能量管理等问题。同时，也从工程应用中提炼共性理论问题，研究复杂时空动态系统的动力学建模、故障诊断、多物理场耦合建模与数值仿真分析。
 
 近年来，在 *IEEE Transactions on Industrial Informatics*, *IEEE Transactions on Transportation Electrification*, *IEEE Transactions on Robotics*, *IEEE Transactions on Cybernetics*, *IEEE Transactions on Geoscience and Remote Sensing*, *Information Fusion*, *Advanced Engineering Informatics*, *Energy* 等国际期刊发表学术论文20余篇，其中以第一或通讯作者发表SCI论文15篇，包括IEEE Transactions系列论文10篇。
 
@@ -52,7 +52,7 @@ about:
 
 ## Professional Service
 
-中国自动化学会新能源与储能系统控制专委会委员，中国电工技术学会会员，IEEE会员，教育部学位与研究生教育发展中心论文评审专家。长期担任 *IEEE Transactions on Industrial Informatics*, *IEEE Transactions on Transportation Electrification*, *IEEE Transactions on Industrial Electronics*, *IEEE Transactions on Energy Conversion*, *Energy*, *Applied Energy*, *Journal of Energy Storage*, *Journal of Power Sources* 等国际期刊审稿人。
+中国自动化学会新能源与储能系统控制专委会委员，中国自动化学会系统仿真专业委员会，中国电工技术学会会员，IEEE会员，教育部学位与研究生教育发展中心论文评审专家。长期担任 *IEEE Transactions on Industrial Informatics*, *IEEE Transactions on Transportation Electrification*, *IEEE Transactions on Industrial Electronics*, *IEEE Transactions on Energy Conversion*, *Energy*, *Applied Energy*, *Journal of Energy Storage*, *Journal of Power Sources* 等国际期刊审稿人。
 
 ## Selected Publications
 
