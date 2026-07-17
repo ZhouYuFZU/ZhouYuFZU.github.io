@@ -20,18 +20,18 @@ website:
     background: "#A9CCE3"
     search: true
     right:
-    - text: "Home"
-      href: index.qmd
-    - text: "Publications"
-      href: publications.qmd
-    - text: "Projects"
-      href: projects.qmd
-    - text: "Showcase"
-      href: showcase.qmd
-    - text: "Student"
-      href: student.qmd
-    - text: "Contact"
-      href: contact.qmd 
+      - text: "Home"
+        href: index.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Showcase"
+        href: showcase.qmd
+      - text: "Student"
+        href: student.qmd
+      - text: "Contact"
+        href: contact.qmd
 
 format:
   html:
