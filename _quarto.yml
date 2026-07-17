@@ -28,6 +28,8 @@ website:
         href: projects.qmd
       - text: "Showcase"
         href: showcase.qmd
+        text: "Student"
+        href: student.qmd
       - text: "Contact"
         href: contact.qmd
 
