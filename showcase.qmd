@@ -1,8 +1,13 @@
 ---
-title: "Coming soon..."
+title: "办公条件"
 ---
+
 **课题组基本办公条件：**
-学生办公室：
-images/办公室.jpg
-会议室：
-images/会议室.jpg
+
+::: {layout-ncol=2}
+
+![学生办公室](images/办公室.jpg)
+
+![会议室](images/会议室.jpg)
+
+:::
